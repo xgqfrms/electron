@@ -1,0 +1,23 @@
+{
+    "name": "electron-quick-start",
+    "version": "1.0.1",
+    "description": "A minimal Electron application",
+    "main": "./src/main.js",
+    "scripts": {
+        "start": "electron .",
+        "app": "electron -p ."
+    },
+    "repository": "https://github.com/electron/electron-quick-start",
+    "keywords": [
+        "Electron",
+        "quick",
+        "start",
+        "tutorial",
+        "demo"
+    ],
+    "author": "xgqfrms",
+    "license": "MIT",
+    "devDependencies": {
+        "electron": "^6.0.3"
+    }
+}
