@@ -18,6 +18,6 @@
     "author": "xgqfrms",
     "license": "MIT",
     "devDependencies": {
-        "electron": "^6.0.3"
+        "electron": "^11.5.0"
     }
 }
